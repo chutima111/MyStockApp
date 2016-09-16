@@ -573,7 +573,7 @@
                 CompanyInfoClass *company = [self findCompanyByTicker:ticker];
                 company.stockPrice = tickerAndPriceArray[i + 1];
 //                company.stockPrice = [NSNumber numberWithInteger:[tickerAndPriceArray[i+1]integerValue]];
-                
+                 
                 
             }
             
